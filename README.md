@@ -6,7 +6,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 
 - [Cursos da Cisco](#Cursos-da-Cisco)
 - [Sites e ferramentas](#Sites-e-ferrmentas)
-- [Sites para treinar CTFs](#Sites-para-treinar-CTFs)
+- [Sites para treinar CTFs](#Sites-para-treinar-CTFs-entre-outros)
 
 
 ## Cursos da Cisco:
@@ -38,7 +38,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 - [Docker CIS benchmarks analysis](https://github.com/docker/docker-bench-security)
 - [OWASP](https://owasp.org/)
 
-## Sites para treinar CTFs
+## Sites para treinar CTFs entre outros
 
 - [Overthewire](https://overthewire.org/)
 - [Cryptohack](https://cryptohack.org/)
