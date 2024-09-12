@@ -59,6 +59,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
   
 ## Mais recursos
 
+- [MUITOS LIVROS](https://github.com/free-educa/books)
 - [H4cker](https://h4cker.org/github) Muita coisa aqui
 - [Tenha seu proprio lab de testes](https://github.com/The-Art-of-Hacking/h4cker/tree/master/build_your_own_lab)
 
