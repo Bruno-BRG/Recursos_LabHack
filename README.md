@@ -37,7 +37,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 - [Kubernets GOAT Project](https://madhuakula.com/kubernetes-goat/docs/)
 - [Docker CIS benchmarks analysis](https://github.com/docker/docker-bench-security)
 - [OWASP](https://owasp.org/)
-
+- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
 ## Sites para treinar CTFs entre outros
 
 - [Overthewire](https://overthewire.org/)
