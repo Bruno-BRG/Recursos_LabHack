@@ -33,6 +33,8 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 - [OWASP](https://owasp.org/)
 - [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
 - [OSSTMM](https://www.isecom.org/)
+- [PTES](http://www.pentest-standard.org/)
+- [ISSAF]
 
 ## Sites e ferramentas
  
