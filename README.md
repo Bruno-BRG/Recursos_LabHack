@@ -39,6 +39,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 
 ## Sites e ferramentas
  
+- [Websploit](https://websploit.org/)
 - [Vx underground](https://vx-underground.org/)
 - Docker CIS benchmarks analysis
 - OPA and CIS kubetnetes policy enforcement
