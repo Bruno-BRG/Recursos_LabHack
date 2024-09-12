@@ -5,6 +5,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 ## Sumario:
 
 - [Cursos da Cisco](#Cursos-da-Cisco)
+- [Metodologiasde Pentest](#Metodologias-de-Pentest)
 - [Sites e ferramentas](#Sites-e-ferrmentas)
 - [Sites para treinar CTFs](#Sites-para-treinar-CTFs-entre-outros)
 
@@ -27,6 +28,12 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
   - [Linux Essentials](https://www.netacad.com/pt/courses/linux-essentials?courseLang=en-US)
   - [Linux 1](https://www.netacad.com/pt/courses/linux-1?courseLang=en-US)
 
+## Metodologias de Pentest
+
+- [OWASP](https://owasp.org/)
+- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
+- [OSSTMM](https://www.isecom.org/)
+
 ## Sites e ferramentas
  
 - [Vx underground](https://vx-underground.org/)
@@ -36,8 +43,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 - [Popeye - A Kubernets Cluster](https://popeyecli.io/)
 - [Kubernets GOAT Project](https://madhuakula.com/kubernetes-goat/docs/)
 - [Docker CIS benchmarks analysis](https://github.com/docker/docker-bench-security)
-- [OWASP](https://owasp.org/)
-- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
+
 ## Sites para treinar CTFs entre outros
 
 - [Overthewire](https://overthewire.org/)
