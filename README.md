@@ -5,7 +5,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 ## Sumario:
 
 - [Cursos da Cisco](#Cursos-da-Cisco)
-- [Metodologiasde Pentest](#Metodologias-de-Pentest)
+- [Metodologias de Pentest](#Metodologias-de-Pentest)
 - [Sites e ferramentas](#Sites-e-ferrmentas)
 - [Sites para treinar CTFs](#Sites-para-treinar-CTFs-entre-outros)
 - [Mais Recursos](#Mais-recursos)
