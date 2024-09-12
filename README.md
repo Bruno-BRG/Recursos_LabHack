@@ -8,6 +8,7 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 - [Metodologiasde Pentest](#Metodologias-de-Pentest)
 - [Sites e ferramentas](#Sites-e-ferrmentas)
 - [Sites para treinar CTFs](#Sites-para-treinar-CTFs-entre-outros)
+-[Mais Recursos](#Mais-recursos)
 
 
 ## Cursos da Cisco:
@@ -56,6 +57,9 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 - [Hack the box](https://account.hackthebox.com/)
 - [ae27ff](https://ae27ff.com/about.php)
   
+## Mais recursos
 
+- [H4cker](https://h4cker.org/github)//Muita coisa
+- [Tenha seu proprio lab de testes](https://github.com/The-Art-of-Hacking/h4cker/tree/master/build_your_own_lab)
 
 
