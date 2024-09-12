@@ -30,17 +30,18 @@ Lista com conteudos para estudo com assuntos de rede de computadores a cursos de
 
 ## Metodologias de Pentest
 
+- [MITRE ATT&CK](https://attack.mitre.org/)
 - [OWASP](https://owasp.org/)
 - [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
 - [OSSTMM](https://www.isecom.org/)
 - [PTES](http://www.pentest-standard.org/)
-- [ISSAF]
+- ISSAF
 
 ## Sites e ferramentas
  
 - [Vx underground](https://vx-underground.org/)
-- [Docker CIS benchmarks analysis]
-- [OPA and CIS kubetnetes policy enforcement]
+- Docker CIS benchmarks analysis
+- OPA and CIS kubetnetes policy enforcement
 - [FALCO Runtime security Monitoring & Detection](https://github.com/falcosecurity/falco)
 - [Popeye - A Kubernets Cluster](https://popeyecli.io/)
 - [Kubernets GOAT Project](https://madhuakula.com/kubernetes-goat/docs/)
